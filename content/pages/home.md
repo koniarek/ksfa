@@ -51,7 +51,7 @@ gallery:
     image: 'https://ucarecdn.com/01d0157f-e23c-4357-b302-b4df48822c6d/'
     title: Untitled 01
   - alt: untitled02
-    image: 'https://ucarecdn.com/dc7e08c2-3123-41f8-a94c-1f536e61d4ca/'
+    image: 'https://lh3.googleusercontent.com/pqoIz8ci7381IfdKpNrctW0ObhBg8yUjQb3YAgpYST-9NTwXyvwWc1IvPUpUK_jhfeMG7OnZ52azLyOPrY0WV8n6hX0gtSL2Eu5e=w600'
     title: Untitled 02
   - alt: untitled03
     image: 'https://ucarecdn.com/701441fe-cc8c-4a25-b4d9-55b6c6b7f39f/'
