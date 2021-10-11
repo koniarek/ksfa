@@ -31,7 +31,7 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>New pieces for sell</h2>
+        <h2>Showcase</h2>
         <Gallery images={gallery} />
       </div>
     </section>
