@@ -80,7 +80,7 @@ export class Navigation extends Component {
               <span
                 className={`NavLink Nav--GroupParent ${
                   this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
+                  this.props.location.pathname.includes('store') ||
                   this.props.location.pathname.includes('post-categories')
                     ? 'active'
                     : ''
@@ -93,7 +93,7 @@ export class Navigation extends Component {
               >
                 Store
                 <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
+                  <NavLink to="/store/" className="Nav--GroupLink">
                     All
                   </NavLink>
                   {subNav.posts.map((link, index) => (
