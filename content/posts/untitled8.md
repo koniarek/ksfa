@@ -15,3 +15,5 @@ meta:
   title: untitled8
 ---
 ![](https://lh3.googleusercontent.com/DyzBhjMu-Ewv2OqZV23K89XaMyCumrui1CQeoELwrts3ivy8aP223yZhYt61VFP-kUHb_l2TdLh8Y7bWfN6EoYxoCC3-zm1z-dn_tg=s0)
+
+# Buy as **[NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/62039412101769961261145110206393106663163125283349866564998716379419331526657/)**.
