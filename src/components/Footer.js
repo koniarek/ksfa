@@ -8,7 +8,7 @@ export default () => (
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://skvdesigns.com/">skvdesigns</a>.
+          skvdesigns</a>.
         </span>
       </div>
     </footer>
