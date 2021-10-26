@@ -7,7 +7,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
+          <a>© Copyright KS Finearts 2020. All rights reserved. Crafted by
           skvdesigns</a>.
         </span>
       </div>
