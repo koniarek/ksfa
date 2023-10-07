@@ -29,12 +29,6 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
-      <div className="container">
-        <h2>Showcase</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section>
 
     <section className="section">
       <div className="container">
